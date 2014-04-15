@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/mohammad/workspace/mrlsplBH/Src/Representations/Modeling/WorldModel'
+let g:netrw_dirhist_2='/home/mohammad/.gconf'
+let g:netrw_dirhist_3='/var/log/kerio-kvc'
+let g:netrw_dirhist_4='/home/mohammad/workspace/mrlsplPerception/Config/Robots/Avesta'
+let g:netrw_dirhist_5='/home/mohammad/workspace/mrlsplPerception/Config/Robots/Arash'
+let g:netrw_dirhist_6='/home/mohammad/workspace/mrlsplPerception/Config/Robots/Avicenna'
+let g:netrw_dirhist_7='/home/mohammad/workspace/mrlspl'
+let g:netrw_dirhist_8='/home/mohammad/workspace/tsttst/Config/Locations/LabMorning'
+let g:netrw_dirhist_9='/home/mohammad/workspace/tsttst'

@@ -7,3 +7,9 @@ I use Vim as a handy IDE for small projects or small changes and code browsing. 
 Installation
 =====
 Just extract it to ~/
+
+Necessary Commands
+=====
+:vsplit vertical split
+:split horizontal split
+ctrl-w up move to the window above

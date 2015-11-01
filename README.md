@@ -20,3 +20,5 @@ ctrl-w= make all windows equal size
 
 For indexer plugin follow the following rules in "Use Indexer's own file .indexer_files" section:
 http://dmitryfrank.com/articles/vim_project_code_navigation
+
+For vimprj plugin, the Meet Vimprj section in the same page.

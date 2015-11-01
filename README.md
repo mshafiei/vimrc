@@ -11,5 +11,10 @@ Just extract it to ~/
 Necessary Commands
 =====
 :vsplit vertical split
+
 :split horizontal split
+
 ctrl-w up move to the window above
+
+For indexer plugin follow the following rules in "Use Indexer's own file .indexer_files" section:
+http://dmitryfrank.com/articles/vim_project_code_navigation

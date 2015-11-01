@@ -16,5 +16,7 @@ Necessary Commands
 
 ctrl-w up move to the window above
 
+ctrl-w= make all windows equal size
+
 For indexer plugin follow the following rules in "Use Indexer's own file .indexer_files" section:
 http://dmitryfrank.com/articles/vim_project_code_navigation
